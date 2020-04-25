@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### Site
-[https://covid-19-tracker-12.web.app/](COVID-19 Tracker)
+[https://covid-19-tracker-12.web.app/](https://covid-19-tracker-12.web.app/)
